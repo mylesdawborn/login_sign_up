@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "473211728157",
+    "firebase_url": "https://logintest-37294.firebaseio.com",
+    "project_id": "logintest-37294",
+    "storage_bucket": "logintest-37294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473211728157:android:2135aea62f7a508c",
+        "android_client_info": {
+          "package_name": "com.mylesrobert.login_sign_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473211728157-jui7ed1mkc8k88ikq3os0246883hj0g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB24krELoYbSPE065VqreMv74nTS4r3I-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473211728157-jui7ed1mkc8k88ikq3os0246883hj0g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
